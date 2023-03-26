@@ -1,0 +1,8 @@
+D:\c++_haitsam\pemrogprak3\pemrogprak3\bin\Debug\pemrogprak3.exe.config
+D:\c++_haitsam\pemrogprak3\pemrogprak3\bin\Debug\pemrogprak3.exe
+D:\c++_haitsam\pemrogprak3\pemrogprak3\bin\Debug\pemrogprak3.pdb
+D:\c++_haitsam\pemrogprak3\pemrogprak3\obj\Debug\pemrogprak3.csproj.AssemblyReference.cache
+D:\c++_haitsam\pemrogprak3\pemrogprak3\obj\Debug\pemrogprak3.csproj.SuggestedBindingRedirects.cache
+D:\c++_haitsam\pemrogprak3\pemrogprak3\obj\Debug\pemrogprak3.csproj.CoreCompileInputs.cache
+D:\c++_haitsam\pemrogprak3\pemrogprak3\obj\Debug\pemrogprak3.exe
+D:\c++_haitsam\pemrogprak3\pemrogprak3\obj\Debug\pemrogprak3.pdb
